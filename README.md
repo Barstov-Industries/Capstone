@@ -87,6 +87,6 @@ Our objective is to:
 
 ## Contributors
 
-- [Ivan Chertoy](your-email@example.com)
-- [Emma Le Bars](collaborator-email@example.com)
+- [Ivan Chertov](ivanchertov86@gmail.com)
+- [Emma Le Bars](lebars.emma@gmail.com)
 
