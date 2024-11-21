@@ -124,14 +124,18 @@ The project’s primary objectives are to:
 ## Contributors
 
 ### Ivan Chertov  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/ivan-chertov/)  
+<a href="https://www.linkedin.com/in/ivan-chertov/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>
+</a>  
 ![Ivan's Picture](https://via.placeholder.com/150)  
 [ivanchertov86@gmail.com](mailto:ivanchertov86@gmail.com)
 
 ---
 
 ### Emma Le Bars  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/emma-le-bars/)  
+<a href="https://www.linkedin.com/in/emma-le-bars/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>
+</a>  
 ![Emma's Picture](https://via.placeholder.com/150)  
 [lebars.emma@gmail.com](mailto:lebars.emma@gmail.com)
 
