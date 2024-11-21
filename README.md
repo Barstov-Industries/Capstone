@@ -132,7 +132,7 @@ The project’s primary objectives are to:
 
 ---
 
-<img align="left" alt="java" src="blob:https://web.whatsapp.com/8c162a8d-9c47-421c-bf32-bfebd69faba3"/>
+<img align="left" alt="java" src="https://github.com/user-attachments/assets/31b08689-c37b-4838-b00e-92773a3447ef"/>
 ### Emma Le Bars  
 
 <a href="https://www.linkedin.com/in/emma-le-bars/">
