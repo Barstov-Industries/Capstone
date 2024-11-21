@@ -42,7 +42,7 @@ The project’s primary objectives are to:
 
 3. **Modeling**:
    - **Ensemble Model**: Combined predictions from three base models:
-     - **Random Forest Regressor**
+     - **Random Forest Regressor** <img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
      - **Linear Regression**
      - **MLP Regressor**
    - **Meta-model**: Used **Random Forest** as a meta-model to combine base model predictions, improving overall forecasting accuracy.
