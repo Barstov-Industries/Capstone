@@ -131,13 +131,12 @@ The project’s primary objectives are to:
 [ivanchertov86@gmail.com](mailto:ivanchertov86@gmail.com)
 
 ---
-
-<img align="left" alt="java" src="https://github.com/user-attachments/assets/31b08689-c37b-4838-b00e-92773a3447ef"/>
 ### Emma Le Bars  
+
+<img align="left" alt="java" alt="java" width="100px" style="padding right: 100px; src="https://github.com/user-attachments/assets/31b08689-c37b-4838-b00e-92773a3447ef"/>
 
 <a href="https://www.linkedin.com/in/emma-le-bars/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>
 </a>  
-![Emma's Picture](https://via.placeholder.com/150)  
 [lebars.emma@gmail.com](mailto:lebars.emma@gmail.com)
 
