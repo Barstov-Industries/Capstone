@@ -40,12 +40,8 @@ The project’s primary objectives are to:
    - **Seasonality**: Created month and peak season indicators (`is_peak_season`).
    - **Price Scaling**: Adjusted the price to match demand predictions.
 
-### 3. **Modeling**
-
-![Random Forest Icon](https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg)  
-![Linear Regression Icon](https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg)  
-![MLP Regressor Icon](https://miro.medium.com/v2/resize:fit:394/1*IAnczBdHgvR3dxlr2dvMwA.png)
-
+3. **Modeling**:
+   
 **Ensemble Model**:  
 - Combined predictions from three base models:  
   - **Random Forest Regressor**  
@@ -55,19 +51,7 @@ The project’s primary objectives are to:
 **Meta-model**:  
 - A **Random Forest Regressor** was employed as the meta-model.  
 - This approach combined the base model predictions to improve overall forecasting accuracy.
-
-
-
-3. **Modeling**:<img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
-<img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg"/>
-<img align="left" alt="java" width="70px" style="padding right: 70px;" src="https://miro.medium.com/v2/resize:fit:394/1*IAnczBdHgvR3dxlr2dvMwA.png"/>
-
-     - **Ensemble Model**: Combined predictions from three base models:
-     - **Random Forest Regressor**
-     - **Linear Regression**
-     - **MLP Regressor**
-     - **Meta-model**: Used **Random Forest** as a meta-model to combine base model predictions, improving overall forecasting accuracy.
-   
+  
 5. **Inventory Rebalancing**:
    - A dynamic rebalancing flag was created based on predicted low demand, which helps adjust stock levels for low-performing items.
    
