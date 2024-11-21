@@ -44,9 +44,9 @@ The project’s primary objectives are to:
    - **Ensemble Model**: Combined predictions from three base models:
      - **Random Forest Regressor** 
      - **Linear Regression**
-     - **MLP Regressor**
+     - **MLP Regressor** <br>
 <img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
-<img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg"/>
+<img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg"/> <br>
    - **Meta-model**: Used **Random Forest** as a meta-model to combine base model predictions, improving overall forecasting accuracy.
    
 4. **Inventory Rebalancing**:
