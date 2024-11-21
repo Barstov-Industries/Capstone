@@ -41,20 +41,19 @@ The project’s primary objectives are to:
    - **Price Scaling**: Adjusted the price to match demand predictions.
 
 3. **Modeling**:
-   - **Ensemble Model**: Combined predictions from three base models:
-     - **Random Forest Regressor** 
-     - **Linear Regression**
-     - **MLP Regressor**
-    
        
 <img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
 <img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg"/>
 <img align="left" alt="java" width="70px" style="padding right: 70px;" src="https://miro.medium.com/v2/resize:fit:394/1*IAnczBdHgvR3dxlr2dvMwA.png"/>
-<br> <br>
 
-- **Meta-model**: Used **Random Forest** as a meta-model to combine base model predictions, improving overall forecasting accuracy.
+
+   - **Ensemble Model**: Combined predictions from three base models:
+     - **Random Forest Regressor** 
+     - **Linear Regression**
+     - **MLP Regressor**
+     - **Meta-model**: Used **Random Forest** as a meta-model to combine base model predictions, improving overall forecasting accuracy.
    
-4. **Inventory Rebalancing**:
+5. **Inventory Rebalancing**:
    - A dynamic rebalancing flag was created based on predicted low demand, which helps adjust stock levels for low-performing items.
    
 ## Modeling
