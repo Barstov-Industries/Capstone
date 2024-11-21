@@ -117,8 +117,7 @@ The project’s primary objectives are to:
 - **Refine Rebalancing Logic**: Enhance the rebalance flag system with more precise seasonal adjustments.
 
 ## Contributors
-- [Ivan Chertov](ivanchertov86@gmail.com)
-- <a href="https://www.linkedin.com/in/ivan-chertov/">
+- [Ivan Chertov](ivanchertov86@gmail.com) <a href="https://www.linkedin.com/in/ivan-chertov/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
 </a>
 
