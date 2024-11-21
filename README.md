@@ -132,7 +132,7 @@ The project’s primary objectives are to:
 ---
 ### Emma Le Bars  
 
-<img align="left" alt="java" width="100px" style="padding right: 100px;"src="https://github.com/user-attachments/assets/31b08689-c37b-4838-b00e-92773a3447ef"/>
+<img align="left" alt="java" width="100px" style="padding right: 100px;"src="https://github.com/user-attachments/assets/31b08689-c37b-4838-b00e-92773a3447ef](https://github-production-user-asset-6210df.s3.amazonaws.com/179383724/388518921-31b08689-c37b-4838-b00e-92773a3447ef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T125507Z&X-Amz-Expires=300&X-Amz-Signature=051d5ea43c32bdb998f718f6a5efb75e5e0230c3eec76e8520ce3e1211b21f65&X-Amz-SignedHeaders=host"/>
 
 <a href="https://www.linkedin.com/in/emma-le-bars/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>
