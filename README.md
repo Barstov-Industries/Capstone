@@ -122,7 +122,6 @@ The project’s primary objectives are to:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
 </a>
 
-
 - [Emma Le Bars](lebars.emma@gmail.com)
 - <a href="https://www.linkedin.com/in/emma-le-bars/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
