@@ -49,7 +49,7 @@ The project’s primary objectives are to:
        
 <img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/039/202/122/non_2x/random-forest-algorithm-color-icon-illustration-vector.jpg"/>
 <img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg"/>
-<img align="left" alt="java" width="50px" style="padding right: 50px;" src="https://miro.medium.com/v2/resize:fit:394/1*IAnczBdHgvR3dxlr2dvMwA.png"/>
+<img align="left" alt="java" width="80px" style="padding right: 80px;" src="https://miro.medium.com/v2/resize:fit:394/1*IAnczBdHgvR3dxlr2dvMwA.png"/>
 
 
    - **Meta-model**: Used **Random Forest** as a meta-model to combine base model predictions, improving overall forecasting accuracy.
